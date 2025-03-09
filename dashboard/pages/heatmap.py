@@ -22,6 +22,8 @@ def main():
 
     # Tampilkan heatmap
     tampilkan_heatmap()
+    st.subheader("Keterangan: ")
+    st.write('berdasarkan heatmap yang telah dibuat, korelasi tertinggi antara kolom hour,dan year, serta menengah pada kolom season. Korelasi yang terjadi antara permintaan sewa sepeda dengan hari terbilang sangat kecil yaitu 0.03 sehingga bisa dikatakan bahwa tidak terdapat korelasi yang terjadi antara hari dan jumlah permintaan sewa sepeda.')
 
 if __name__ == '__main__':
     main()

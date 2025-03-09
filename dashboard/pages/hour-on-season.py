@@ -43,6 +43,8 @@ def main():
 
     # Menampilkan grafik
     grafik()
+    st.subheader("Keterangan: ")
+    st.write('Terjadi kenaikan jumlah sewa sepeda pada pukul 10 pagi dan pukul 5 sore dengan puncak tertinggi terjadi pada pukul 10 pagi. Tren tersebut menunjukkan hal yang konsisten pada setiap musim.')
 
 #########################
 # menjalankan kode main #

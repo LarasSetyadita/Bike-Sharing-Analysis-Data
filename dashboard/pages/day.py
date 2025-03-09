@@ -21,6 +21,8 @@ def main():
 
     # Menampilkan grafik
     grafik()
+    st.subheader("Keterangan: ")
+    st.write('Tren jumlah persewaan sepeda tidak menunjukkan perbedaan yang signifikan terhadap perbedaan hari. Namun terdapat perbedaan yang mencolok antara jumlah sepeda yang berhasil disewanan pada tahun 2011 dan 1012')
 
 #########################
 # menjalankan kode main #

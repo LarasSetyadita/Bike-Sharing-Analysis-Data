@@ -45,6 +45,8 @@ def main():
 
     # Menampilkan grafik
     grafik()
+    st.subheader("Keterangan: ")
+    st.write('Tidak terdapat perbedaan jumlah sewa yang signifikan pada setiap hari, namun perbedaan mencolok terjadi pada rata-rata setiap musim dimana tingkat sewa tertinggi terjadi pada musim gugur dan tingkat sewa terendah terjadi pada musim semi')
 
 #########################
 # menjalankan kode main #
