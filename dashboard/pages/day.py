@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def grafik():
-    avg_rentals_day = pd.read_csv('./data/avg_rentals_day.csv')
+    avg_rentals_day = pd.read_csv('./dashboard/avg_rentals_day.csv')
     
     fig, ax = plt.subplots(figsize=(12, 6))
     sns.barplot(data=avg_rentals_day, x="day", y="count", hue="year", ax=ax)

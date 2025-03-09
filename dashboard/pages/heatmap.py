@@ -6,7 +6,7 @@ import seaborn as sns
 # Fungsi untuk menampilkan heatmap
 def tampilkan_heatmap():
     # Load data
-    df = pd.read_csv('./data/u_hour_df.csv')  # Ganti dengan nama file dataset
+    df = pd.read_csv('./dashboard/u_hour_df.csv')  # Ganti dengan nama file dataset
 
     correlation = df.corr()
 

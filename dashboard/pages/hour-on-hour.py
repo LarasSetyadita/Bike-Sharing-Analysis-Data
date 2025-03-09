@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def grafik():
-    avg_rentals_hour_2011 = pd.read_csv('./data/avg_rentals_hour_2011.csv')
-    avg_rentals_hour_2012 = pd.read_csv('./data/avg_rentals_hour_2012.csv')
+    avg_rentals_hour_2011 = pd.read_csv('./dashboard/avg_rentals_hour_2011.csv')
+    avg_rentals_hour_2012 = pd.read_csv('./dashboard/avg_rentals_hour_2012.csv')
 
     tahun_terpilih = st.radio("Pilih Tahun:", [2011, 2012])
 
