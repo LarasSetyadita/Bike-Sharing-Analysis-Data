@@ -9,9 +9,9 @@ https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
 https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
 
 Serta telah dideploy dengan streamlit dan dapat diakses melalui link berikut ini:
-https://bike-sharing-analysis-data-ubdex6ihappmnjtpyvp3fzg.streamlit.app/
-https://bike-sharing-analysis-data-ubdex6ihappmnjtpyvp3fzg.streamlit.app/
-https://bike-sharing-analysis-data-ubdex6ihappmnjtpyvp3fzg.streamlit.app/
+https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
+https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
+https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
 
 
 # instalasi
