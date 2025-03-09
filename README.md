@@ -5,12 +5,9 @@ Proyek ini bertujuan untuk melakukan analisis Bike-Sharing-Dataset-Analysis. Ana
 
 Proyek ini telah di deploy di github dan dapat diakses melalui link berikut ini : 
 https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
-https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
-https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
+
 
 Serta telah dideploy dengan streamlit dan dapat diakses melalui link berikut ini:
-https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
-https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
 https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
 
 
