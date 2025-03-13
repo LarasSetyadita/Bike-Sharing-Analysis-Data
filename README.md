@@ -4,7 +4,7 @@
 Proyek ini bertujuan untuk melakukan analisis Bike-Sharing-Dataset-Analysis. Analisis ini mancakup Data Wrangling, Data Cleaning, Exploratory Data analysis, Data Visualization, dan Pembuatan Dashboard. 
 
 Proyek ini telah di deploy di github dan dapat diakses melalui link berikut ini : 
-https://bike-sharing-analysis-data-laras-setyadita.streamlit.app/
+https://github.com/LarasSetyadita/Bike-Sharing-Analysis-Data.git
 
 
 Serta telah dideploy dengan streamlit dan dapat diakses melalui link berikut ini:
